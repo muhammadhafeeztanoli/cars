@@ -44,4 +44,3 @@ class App extends Component {
       );
   }
 }
-i
