@@ -45,4 +45,4 @@ class App extends Component {
   }
 }
 
-App;
+App
